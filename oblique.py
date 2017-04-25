@@ -7,8 +7,8 @@
 import random
 
 def getStrategies():
-    with open("./src/edition_1.txt") as stratfile:
-        strategies = [line.strip('\n') for line in stratfile.readlines()]
+    with open("/home/lucas/oblique-strategies/src/joined_files.txt") as f:
+        strategies = [line.strip('\n') for line in f.readlines()]
     return strategies
 
 def callStrategy():

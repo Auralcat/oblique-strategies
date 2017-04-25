@@ -1,0 +1,362 @@
+Imagine a day in the life of a user of your software.
+Consult other sources -promising -unpromising
+It is simply a matter or work
+Use 'unqualified' people
+Remember .those quiet evenings
+What would a layman or somebody with less experience do?
+First, solve the problem. Then, write the code.
+Use filters
+Is there a standards approach to this?
+Turn it upside down
+Emphasize differences
+Try faking it (from Stewart Brand)
+If it doesn't work, it doesn't matter how fast it doesn't work.
+Is this what the customer wants or is it what he needs?
+Can you build a simulator to help reproduce the problem conditions?
+Have you switched it off and back on again?
+Try to reproduce the problem on a different computer or different hardware.
+In total darkness, or in a very large room, very quietly
+Feedback recordings into an acoustic situation
+Accretion
+The simplest explanation is most likely the correct one.
+Don't be afraid of things because they're easy to do
+Can I simplify the problem somehow?
+What would your closest friend do?
+Take away the important parts
+What's the simplest thing that could possibly work?
+Use your own ideas
+A line has two sides
+Are there any log files that might give you more information?
+Rollback or undo the last change.
+Post the problem on a forum or news group.
+Ask your body
+Abandon normal instruments
+Do something sudden, destructive and unpredictable
+Intentions -nobility of -humility of -credibility of
+The most easily forgotten thing is the most important
+Children -speaking -singing
+Reverse
+How could you go about formally proving this code to be correct?
+Twist the spine
+Make an exhaustive list of everything you might do next.
+What are the sections sections of? Imagine a caterpillar moving
+Don't stress *on* thing more than another (sic)
+Ask a question on Stack Overflow.
+Are there sections? Consider transitions
+State the problem in words as clearly as possible
+Breathe more deeply
+Do your names and abstractions correspond with the real world? Is your code model driven?
+Idly thumb through The Art of Computer Science by Donald Knuth.
+Convert a melodic element into a rhythmic element
+You don't have to be ashamed of using your own ideasTrust in the you of now
+Change ambiguities to specifics
+Simple Subtraction
+Pae White's non-blank graphic metacard
+Can you use brute force for now and find a fancy algorithm later?
+Tape your mouth (given by Ritva Saarikko)
+Are you clear about what you are trying to build?
+Do the last thing first
+Keep a written log of every little thing you change and any results.
+Would anyone want it?
+What to increase? What to reduce? What to maintain?
+Look closely at the most embarrassing details and amplify them
+How would someone else do it?
+What would Steve Jobs have done?
+Shut your eyes for five minutes.
+Break a big thing up into smaller pieces.
+Faced with a choice, do both (from Dieter Rot)
+Idiot glee (?)
+Be extravagant
+Cut a vital connection
+Is the intonation correct?
+Take away the elements in order of apparent non-importance
+Change nothing and continue with immaculate consistency
+Can you reuse an old idea or code from an earlier project?
+Is there a test or simulation that you could run overnight to give you more information tomorrow?
+Mute and continue
+Intentions -credibility of -nobility of -humility of
+What were you really thinking about just now?
+What would this code look like in another programming language?
+When is it for?
+Into the impossible
+Not building a wall; making a brick
+Make an exhaustive list of everything you might do and do the last thing on the list
+Explain the problem to a co-worker.
+Deleted code is debugged code.
+Feed the recording back out of the medium
+Children's voices -speaking -singing
+Decorate, decorate
+Stop guessing and look at the facts.
+Lowest common denominator
+Go outside. Shut the door.
+The most important thing is the thing most easily forgotten
+When did it last work? what has changed?
+Try using a different web browser.
+The most effective debugging tool is still careful thought, coupled with judiciously placed print statements.
+Abandon desire
+Resist the temptation to fix it by hand. Make sure the fix is permanent.
+Cluster analysis
+The tape is now the music
+Balance the consistency principle with the inconsistency principle
+Make what's perfect more human
+Make it more sensual
+Take a break; Read a poem.
+Can you find an analogy or metaphor to explore this problem?
+Try recreating this program section from scratch.
+If you are thinking and not writing you only think you are thinking.
+Mechanicalise something idiosyncratic
+Try to imagine what the world would look like if you had already solved the problem.
+Water
+What is the simplest solution?
+Is this a numerical problem? Think about rounding, division by zero, overflow and floating point errors.
+What would Donald Knuth do?
+Once the search is in progress, something will be found
+Have a long soak in a hot bath.
+Use something nearby as a model
+Walk a lap around the car park.
+Shut the door and listen from outside
+How would you have done it?
+Remove a restriction
+Could the documentation be wrong?
+Is there somebody you could call upon for assistance?
+Do we need holes?
+Use an unacceptable colour
+Always the first steps
+Short circuit (example; a man eating peas with the idea that they will improve his virility shovels them straight into his lap)
+Use an old idea
+Get away from your desk. Take a journey on public transport: a train, bus or plane.
+What context would look right?
+Write a plan then throw it away.
+Once the search has begun, something will be found
+Where is the edge?
+Imagine the music as a moving chain or caterpillar
+Does the code actually do what the comments say it should?
+Discover your formulas and abandon them
+Don't stress one thing more than another
+Lowest common denominator check -single beat -single note -single riff
+A twin-engine aeroplane has twice as many engine problems as a single engine aeroplane.
+Comment out all the exception and error handlers and try again.
+Can you adapt something that you already have?
+Imagine the music as a set of disconnected events
+Are you fooling yourself?
+Read the documentation properly. Read it again.
+Can you find some similar code in an open source project and study it?
+If you are the only person fixing a problem, then people will just have to wait until you're done.
+Humanise something free of error
+Can you pair program it?
+Perform the calculation or task manually with a calculator, pencil and paper.
+Distort time
+Does turning OFF any compiler optimizations or debugging tools change the problem?
+Assemble some of the elements in a group and treat the group
+Always first steps
+Distorting time
+Bridges -build -burn
+Adding on
+Use cliches
+Be quiet! Stop talking and think!
+What can you do to contain a problem so that things can't get any worse?
+Idly thumb through The Gang of Four Design Patterns book.
+Don't assume that the bug was caused by somebody else.
+Destroy nothing; Destroy the most important thing
+Designing the right data structure is often more important than designing the right code.
+Discover the recipes you are using and abandon them
+Go to an extreme, move back to a more comfortable place
+Could you build a textualizer utility to help manage your data files?
+Don't break the silence
+Google it.
+Get your neck massaged
+Allow an easement (an easement is the abandonment of a stricture)
+Think - inside the work -outside the work
+Always give yourself credit for having more than personality (given by Arto Lindsay)
+Take a break; go for a run or do some cardiovascular exercise.
+Are you using the right tools for the job?
+Repetition is a form of change
+Draw a picture of the problem with coloured pens.
+Be dirty
+Be wary of Not Invented Here syndrome.
+Abandon normal instructions
+If you had time to refactor this code, what would you change?
+Put in earplugs
+Faced with a choice, do both (given by Dieter Rot)
+You are an engineer
+Is it time to upgrade your computer?
+Go to the library. Sit quietly and think.
+Change nothing and continue consistently
+Change instrument roles
+Your mistake was a hidden intention
+Is the style right?
+How did they do it without computers?
+Is this premature optimization?
+It is quite possible (after all)
+What would Paul Graham do?
+(Organic) machinery
+Is the tuning intonation correct?
+Is there something missing?
+Move towards the unimportant
+Easy things should be easy; hard things should be possible.
+Is it broken by design?
+Write some more unit tests.
+Don't be frightened of cliches
+Is this a versioning problem? Check the versions of your operating system, tools and libraries.
+Switch off your monitor and sit at your desk quietly for a while.
+Go and sit next to a user of your software.
+Just because other people think it's a bug doesn't mean it's really a bug.
+Infinitesimal gradations
+Not building a wall but making a brick
+Simply a matter of work
+Don't be frightened to display your talents
+Make some time and space to learn some new skills.
+Do the washing up
+Make a blank valuable by putting it in an exquisite frame
+Be alone for a while. Make some time and space to really think.
+Be less critical
+Only one element of each kind
+Look hard at any loops. Under what circumstances can they terminate?
+Can you build something to help you understand the problem?
+Simplicity is prerequisite for reliability.
+Emphasise differences
+Listen to the quiet voice
+Go and talk to somebody who isn't a programmer.
+Is there a better algorithm? Consult the computer science literature.
+What is the worst thing you could do next?
+Left channel, right channel, centre channel
+Fill every beat with something
+Courage!
+Generate alternative solutions and pick the best.
+Remove ambiguities and convert to specifics
+Do you even know what you're talking about?
+Is this abstraction delivering enough benefit?
+Only a part, not the whole
+Buy a book on the subject.
+Ponder the Telegraph Crossword.
+Is this code part of a design pattern? What's its name?
+Are you solving the right problem?
+Keep calm and breathe.
+Listen in total darkness, or in a very large room, very quietly
+Does this need a program or could I use another tool?
+What's the worse thing that could happen next?
+Do nothing for as long as possible
+Make a cup of tea or coffee.
+Faced with a choice, do both things.
+What would be the implications of ignoring this problem and doing nothing about it for the time being?
+Can you do this job without writing any more code?
+Would anybody want it?
+Tidy up
+Work in a coffee shop or cafe for a while.
+Emphasise repetitions
+The key to performance is elegance, not battalions of special cases.
+Destroy -nothing -the most important thing
+From nothing to more than nothing
+Can you use a tool to watch what's happening? A debugger, protocol analyzer or trace listener for example.
+Honor thy error as a hidden intention
+Take a break
+Find a code sample.
+Change specifics to ambiguities
+Ignore the problem and work on something else for a while.
+Work from home for a day.
+Is there an existing library or component that you could use?
+Every problem has a perfectly reasonable explanation.
+Use fewer notes
+Build expertise in your project's domain. Talk to expert users. Read industry papers, academic reports, brochures etc.
+Are you solving the problem you have or the problem you'd like to have?
+Give the game away
+Take a smoke break, even if you don't actually smoke. (Smokers always know what's going on).
+If there are two or more ways to do something, and one of those ways can result in a catastrophe, then someone will do it.
+What is the reality of the situation?
+Overtly resist change
+Shouting and swearing won't help. Clear, rational thinking almost certainly will.
+Take a break; Look at a painting.
+State the problem in words as simply as possible
+Is the tuning appropriate?
+Can you get more information from the customer? Real data? A crash dump? Configuration settings? Virtual machine image?
+Go home and sleep on it. Things will look different tomorrow.
+Can you make this program do one thing instead of two?
+Imagine you had unlimitted time, budget, memory and compute power. What would you do?
+A very small object -Its centre
+Consider different fading systems
+Define an area as 'safe' and use it as an anchor
+Emphasise the flaws
+Question the heroic
+Don't invent another data format.
+Discard an axiom
+Remember that models don't necessarily correspond with reality.
+Which parts can be grouped?
+What are you really thinking about just now?
+Is it finished?
+Try it on a different network. 3G, Starbucks WIFI or home broadband.
+Can you add code that will provide more information about the problem?
+Are you getting confused by the complexities of your own making?
+Revaluation (a warm feeling)
+Tidy up your work area.
+Look at a very small object, look at its centre
+Be less critical more often
+Watch out for off-by-one bugs where loops are used.
+Remove specifics and convert to ambiguities
+Disciplined self-indulgence
+The inconsistency principle
+Retrace your steps
+Towards the insignificant
+Strum your guitar.
+Try to write a small, reproducible code sample with just the salient parts and all other complexity removed.
+Go slowly all the way round the outside
+Consider transitions
+Try to make the problem worse to understand how you might make it better.
+Go outside and get some fresh air.
+Cascades
+Check the types of all the variables in the problematic code.
+Programs must be written for people to read, and only incidentally for machines to execute.
+KISS: Keep It Short and Simple. Keep It Simple Stupid!
+You can only make one dot at a time
+Lie on the sofa with your laptop.
+Stand in front of a big blank whiteboard with a pen. Start writing.
+Slow preparation, fast execution
+Remember quiet evenings
+State the problem as clearly as possible
+Think of the radio
+Accept advice
+Is this code really necessary?
+Are you looking in the right place?
+Make a sudden, destructive unpredictable action; incorporate
+Just carry on
+Lost in useless territory
+What mistakes did you make last time?
+Magnify the most difficult details
+Openly resist change
+Do the words need changing?
+Write down a clear statement of the problem on paper.
+Go to an extreme, come part way back
+Assemble some of the instruments in a group and treat the group
+Only change one thing at a time. Try to predict what will happen with each change.
+Consider the possibility of side effects.
+Ghost echoes
+Spectrum analysis
+Imagine the piece as a set of disconnected events
+Display your talent
+Emphasize the flaws
+Is this a symptom or a root cause?
+What wouldn't you do?
+Take a break. Go and get something to eat.
+Is there a video about this? Look on YouTube or Channel 9.
+Is something missing?
+Give way to your worst impulse
+Are you using the correct configuration settings?
+Ask people to work against their better judgement
+Disconnect from desire
+Read the error message slowly, carefully and deliberately. What does it actually say?
+Work at a different speed
+Collect together all the information, pictures, scribbles and diagrams. Make a scrapbook or pin them to the wall.
+Are there any compiler flags or runtime switches that you could configure to give you more information?
+Find a safe part and use it as an anchor
+Think about what is going on at the lowest layers. What is hitting RAM? What is being sent on the wire?
+Can you automate this?
+What are you really thinking about just now? Incorporate
+Question the heroic approach
+If you have four groups working on a compiler, you'll get a four-pass compiler.
+Do something boring
+Don't avoid what is easy
+Voice your suspicions
+Look at the order in which you do things
+Simple subtraction
+Before software can be reusable it first has to be usable.
+Don't trust a bug report until you've seen the problem with your own eyes.
+Don't worry about what anybody else is doing.
